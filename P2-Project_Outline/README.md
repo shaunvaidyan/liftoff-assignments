@@ -19,6 +19,8 @@ Fantasy Football Season in Review Generator (still mulling this over)
 3. HTML
 4. CSS
 ### What I'll Have to Learn
-Include what you will need to learn here
+- Brush up on how the Sleeper API works
+- Look up rate limits for HTTP requests
+- What database to use to Store/Cache data the JSON output from requests to the Sleeper API
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/x3KkUcBS/fantasymvp
