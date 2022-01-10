@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Fantasy Football Season in Review Generator (still mulling this over)
+Fantasy Football Season in Review Generator
 ### Features
 1. User Submits URL of their team to ESPN/Sleeper/Yahoo League
 2. Parse the URL and perform GET requests against the respective platforms' APIs to grab data
