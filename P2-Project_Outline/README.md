@@ -18,6 +18,7 @@ Fantasy Football Season in Review Generator (still mulling this over)
 2. REST API
 3. HTML
 4. CSS
+5. SQL database (Postgres/MySQL/MongoDB)
 ### What I'll Have to Learn
 - Brush up on how the Sleeper API works
 - Look up rate limits for HTTP requests
