@@ -21,7 +21,7 @@ Fantasy Football Season in Review Generator (still mulling this over)
 5. SQL database (Postgres/MySQL/MongoDB)
 ### What I'll Have to Learn
 - Brush up on how the Sleeper API works
-- Look up rate limits for HTTP requests
+  - Look up rate limits for HTTP requests
 - What database to use to Store/Cache data the JSON output from requests to the Sleeper API
 ### Project Tracker
 https://trello.com/b/x3KkUcBS/liftoff-project
