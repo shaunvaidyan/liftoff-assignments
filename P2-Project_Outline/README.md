@@ -14,7 +14,7 @@ Fantasy Football Season in Review Generator
 3. Parse Data and break it down into weekly scores
 4. Show highlights of best scores by players
 ### Technologies
-1. Javascript
+1. Javascript (NodeJS for the backend - ___ for the Front End)
 2. REST API
 3. HTML
 4. CSS
