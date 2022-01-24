@@ -8,12 +8,20 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- Landing page (https://i.imgur.com/wa19d9X.jpg)
+- League selection page (https://i.imgur.com/nO1TuH4.jpg)
+- Team Selection page (https://i.imgur.com/D27dWdw.jpg)
+- Team MVPs Page (https://i.imgur.com/P4E0bzw.jpg)
 
+![Landing page](https://i.imgur.com/wa19d9X.jpg)
+![League selection page](https://i.imgur.com/nO1TuH4.jpg)
+![Team Selection page](https://i.imgur.com/D27dWdw.jpg)
+![Team MVPs Page](https://i.imgur.com/P4E0bzw.jpg)
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/x3KkUcBS/fantasymvp
+
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/shaunvaidyan/fantasymvp
