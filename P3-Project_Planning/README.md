@@ -19,8 +19,7 @@ For this assignment, you'll create some initial plans for your project.
 ![Team MVPs Page](https://i.imgur.com/P4E0bzw.jpg)
 ### Project Tracker
 
-https://trello.com/b/x3KkUcBS/fantasymvp
-
+https://trello.com/b/5zaseWYV/fantasymvpshaun
 
 ### Project Repo Link
 
